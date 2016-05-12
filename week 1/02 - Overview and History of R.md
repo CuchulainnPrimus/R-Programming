@@ -1,12 +1,19 @@
 # Overview and History of R
 
 **0:00**
+
 And then in this lecture, I'm going to give a little overview and a very brief history of the R statistical programing environment. 
+
 **0:07**
+
 So the very first question, I think is most obvious, is which is, what is R? And the answer is actually quite simple. It's basically R is a dialect of S. Okay, so that leads to the next logical question, which is what is S? 
+
 **0:21**
+
 So S was a language, or is a language that was developed by John Chambers and at the now-defunct Bell Labs. And it was initiated in 1976 as an internal statistical analysis environment, so the, an environment that people at Bell Labs could use to analyze data. And initially it was implemented as a series of FORTRAN libraries to kind of implement routines that were tedious to have to do over and over again, so there were FORTRAN libraries to repeat these statistical routines. 
+
 **0:50**
+
 Early versions of the language did not contain functions for statistical modelling. That did not come until roughly version three of the language. So in 1988, the system was rewritten in the C language and to make it more portable across systems and it began to resemble the system that we have today. So this was version three. And there was a seminal book the, called the Statistical Models in S written by John Chambers and Trevor Hastie. Sometimes referred to as the white book. And that documents, all the statistical analysis functionality that came into the version, that version of the language. Version four of the S language was released in 1998. And its version, it's the version we more or less use today. 
 **1:29**
 The book Programming with Data, which is a reference for this course, is written by John Chambers sometimes called the green book and it documents version four of the S language. So, R is an implementation of the S language, that was originally del, developed in Bell Labs. So, just a little bit more history here, in 1993 Bell Labs gave a corporation called StatSci which became Insightful Corporation, an exclusive license to develop and sell the S language. In 2004, Insightful purchased the S language completely from Lucent. So Bell Labs became Lucent Technology for $2 million, and became the current owner. In 2006, Alcatel purchased Lucent Technologies and it's now called Alcatel-Lucent. 
