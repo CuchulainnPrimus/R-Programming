@@ -1,11 +1,9 @@
 # Overview and History of R
 
-**0:00**
-
+**0:00**  
 And then in this lecture, I'm going to give a little overview and a very brief history of the R statistical programing environment. 
 
-**0:07**
-
+**0:07**  
 So the very first question, I think is most obvious, is which is, what is R? And the answer is actually quite simple. It's basically R is a dialect of S. Okay, so that leads to the next logical question, which is what is S? 
 
 **0:21**
